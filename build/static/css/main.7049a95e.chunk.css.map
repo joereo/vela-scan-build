@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,iBAGE,qBACF,CAEA,KACE,QAAS,CACT,sCACF","file":"main.7049a95e.chunk.css","sourcesContent":["*,\r\n:after,\r\n:before {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  margin: 0;\r\n  font-family: 'Roboto', Courier, monospace;\r\n}\r\n"]}
