@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7049a95e.chunk.css",
-    "main.js": "/static/js/main.bd134dbe.chunk.js",
-    "main.js.map": "/static/js/main.bd134dbe.chunk.js.map",
+    "main.js": "/static/js/main.24d0ca5c.chunk.js",
+    "main.js.map": "/static/js/main.24d0ca5c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.49430fd4.js",
     "runtime-main.js.map": "/static/js/runtime-main.49430fd4.js.map",
     "static/css/2.121b3ca3.chunk.css": "/static/css/2.121b3ca3.chunk.css",
@@ -435,23 +435,25 @@
     "static/js/3.8b405a60.chunk.js.LICENSE.txt": "/static/js/3.8b405a60.chunk.js.LICENSE.txt",
     "static/js/4.645ea451.chunk.js.LICENSE.txt": "/static/js/4.645ea451.chunk.js.LICENSE.txt",
     "static/js/5.dc57f0fd.chunk.js.LICENSE.txt": "/static/js/5.dc57f0fd.chunk.js.LICENSE.txt",
-    "static/js/main.bd134dbe.chunk.js.LICENSE.txt": "/static/js/main.bd134dbe.chunk.js.LICENSE.txt",
-    "static/media/dark_vela.116dc576.png": "/static/media/dark_vela.116dc576.png",
+    "static/js/main.24d0ca5c.chunk.js.LICENSE.txt": "/static/js/main.24d0ca5c.chunk.js.LICENSE.txt",
+    "static/media/dark.a9fbbd8f.png": "/static/media/dark.a9fbbd8f.png",
+    "static/media/dark_vela.06a5c55a.png": "/static/media/dark_vela.06a5c55a.png",
     "static/media/icon-1.c1c5a4e4.svg": "/static/media/icon-1.c1c5a4e4.svg",
     "static/media/icon-2.c1f86f17.svg": "/static/media/icon-2.c1f86f17.svg",
     "static/media/icon-21.34460cd9.svg": "/static/media/icon-21.34460cd9.svg",
     "static/media/icon-25.a0ee1d88.svg": "/static/media/icon-25.a0ee1d88.svg",
     "static/media/icon31.9de9152e.svg": "/static/media/icon31.9de9152e.svg",
     "static/media/icon59.7ac85c06.svg": "/static/media/icon59.7ac85c06.svg",
+    "static/media/light.38cb7fd7.png": "/static/media/light.38cb7fd7.png",
     "static/media/sidebar-2.22f68ba5.jpg": "/static/media/sidebar-2.22f68ba5.jpg",
     "static/media/undraw_security.d5fb8d31.svg": "/static/media/undraw_security.d5fb8d31.svg",
-    "static/media/vela.c92b5d5b.png": "/static/media/vela.c92b5d5b.png"
+    "static/media/vela.3b39aa6b.png": "/static/media/vela.3b39aa6b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.49430fd4.js",
     "static/css/2.121b3ca3.chunk.css",
     "static/js/2.46b6941a.chunk.js",
     "static/css/main.7049a95e.chunk.css",
-    "static/js/main.bd134dbe.chunk.js"
+    "static/js/main.24d0ca5c.chunk.js"
   ]
 }
