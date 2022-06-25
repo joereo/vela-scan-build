@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7049a95e.chunk.css",
-    "main.js": "/static/js/main.1234aec9.chunk.js",
-    "main.js.map": "/static/js/main.1234aec9.chunk.js.map",
+    "main.js": "/static/js/main.d1e71d85.chunk.js",
+    "main.js.map": "/static/js/main.d1e71d85.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d9acdd9a.js",
     "runtime-main.js.map": "/static/js/runtime-main.d9acdd9a.js.map",
     "static/css/2.121b3ca3.chunk.css": "/static/css/2.121b3ca3.chunk.css",
@@ -435,7 +435,7 @@
     "static/js/3.9895d80e.chunk.js.LICENSE.txt": "/static/js/3.9895d80e.chunk.js.LICENSE.txt",
     "static/js/4.9fd2d7b5.chunk.js.LICENSE.txt": "/static/js/4.9fd2d7b5.chunk.js.LICENSE.txt",
     "static/js/5.96ba78ea.chunk.js.LICENSE.txt": "/static/js/5.96ba78ea.chunk.js.LICENSE.txt",
-    "static/js/main.1234aec9.chunk.js.LICENSE.txt": "/static/js/main.1234aec9.chunk.js.LICENSE.txt",
+    "static/js/main.d1e71d85.chunk.js.LICENSE.txt": "/static/js/main.d1e71d85.chunk.js.LICENSE.txt",
     "static/media/dark_vela.06a5c55a.png": "/static/media/dark_vela.06a5c55a.png",
     "static/media/icon-1.c1c5a4e4.svg": "/static/media/icon-1.c1c5a4e4.svg",
     "static/media/icon-2.c1f86f17.svg": "/static/media/icon-2.c1f86f17.svg",
@@ -453,6 +453,6 @@
     "static/css/2.121b3ca3.chunk.css",
     "static/js/2.25c8bded.chunk.js",
     "static/css/main.7049a95e.chunk.css",
-    "static/js/main.1234aec9.chunk.js"
+    "static/js/main.d1e71d85.chunk.js"
   ]
 }
